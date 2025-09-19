@@ -1,0 +1,12 @@
+logs
+output
+DUMMY
+experiments
+resources/filelist/vctk_test.txt
+resources/filelist/vctk_train.txt
+wandb
+__pycache__
+DUMMYF
+DUMMYF2
+experiments_prev
+VCTK
