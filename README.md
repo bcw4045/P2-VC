@@ -47,5 +47,5 @@ python train.py
 python inference.py --ckpt ./logs/P2VC/p2vc.pt --src ./src.wav --tgt ./tgt.wav --out ./converted.wav
 ```
 
-## Acknowledge
+## Acknowledgement
 This work was partly supported by the Technology development Program(RS-2025-21432982) funded by Korea Ministry of SMEs and Startups, by the Technology Innovation Program(RS-2025-25454727) funded by Korea Ministry of Trade, Industry & Energy, and by the High-Performance Computing Support Project funded by Korea Ministry of Science and ICT(RTQ-25-070202).
